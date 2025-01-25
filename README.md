@@ -1,2 +1,2 @@
-# repos
+# Repos
 All the projects from The Odin Project
